@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,6,2,2,90,90,520,1
+Style: Hook,DejaVu Sans,72,&H00FFFFFF,&H00FFFFFF,&H001E63D9,&H001E63D9,-1,0,0,0,100,100,0,0,3,22,0,8,80,80,230,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:02.60,Hook,,0,0,0,,Tired parents: you only need 2 things
+Dialogue: 0,0:00:00.15,0:00:01.01,Cap,,0,0,0,,TIRED PARENTS,
+Dialogue: 0,0:00:01.01,0:00:01.96,Cap,,0,0,0,,YOU DON'T NEED A
+Dialogue: 0,0:00:01.96,0:00:03.08,Cap,,0,0,0,,PINTEREST HALLOWEEN.
+Dialogue: 0,0:00:03.08,0:00:04.20,Cap,,0,0,0,,YOU NEED TWO THINGS.
+Dialogue: 0,0:00:04.20,0:00:05.36,Cap,,0,0,0,,FIRST, ONE TRADITION.
+Dialogue: 0,0:00:05.36,0:00:06.01,Cap,,0,0,0,,JUST ONE.
+Dialogue: 0,0:00:06.01,0:00:07.30,Cap,,0,0,0,,CARVING, A SPOOKY MOVIE,
+Dialogue: 0,0:00:07.30,0:00:08.85,Cap,,0,0,0,,COCOA AFTER TRICK-OR-TREATING.
+Dialogue: 0,0:00:09.35,0:00:11.05,Cap,,0,0,0,,THAT'S WHAT THEY REMEMBER.
+Dialogue: 0,0:00:11.05,0:00:12.43,Cap,,0,0,0,,NOT THE DECORATIONS.
+Dialogue: 0,0:00:12.43,0:00:14.07,Cap,,0,0,0,,NOBODY REMEMBERS WHAT WAS
+Dialogue: 0,0:00:14.07,0:00:15.14,Cap,,0,0,0,,ON THIS PORCH,
+Dialogue: 0,0:00:15.14,0:00:16.57,Cap,,0,0,0,,BUT THEY REMEMBER THE
+Dialogue: 0,0:00:16.57,0:00:17.74,Cap,,0,0,0,,COCOA. SECOND...
+Dialogue: 0,0:00:17.74,0:00:19.17,Cap,,0,0,0,,PERMISSION TO KEEP IT
+Dialogue: 0,0:00:19.17,0:00:19.80,Cap,,0,0,0,,SMALL.
+Dialogue: 0,0:00:20.30,0:00:21.64,Cap,,0,0,0,,STORE-BOUGHT COSTUME?
+Dialogue: 0,0:00:21.64,0:00:23.12,Cap,,0,0,0,,FINE. CEREAL FOR DINNER?
+Dialogue: 0,0:00:23.12,0:00:24.36,Cap,,0,0,0,,FINE. THEY WANT YOU
+Dialogue: 0,0:00:24.36,0:00:25.75,Cap,,0,0,0,,THERE, NOT STRESSED IN
+Dialogue: 0,0:00:25.75,0:00:26.64,Cap,,0,0,0,,THE KITCHEN.
+Dialogue: 0,0:00:26.64,0:00:27.78,Cap,,0,0,0,,SAVE THIS FOR THE
+Dialogue: 0,0:00:27.78,0:00:28.96,Cap,,0,0,0,,NIGHT YOU NEED IT.

@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,6,2,2,90,90,520,1
+Style: Hook,DejaVu Sans,72,&H00FFFFFF,&H00FFFFFF,&H001E63D9,&H001E63D9,-1,0,0,0,100,100,0,0,3,22,0,8,80,80,230,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:02.60,Hook,,0,0,0,,$10 spooky porch. Can I do it?
+Dialogue: 0,0:00:00.15,0:00:01.68,Cap,,0,0,0,,I GAVE MYSELF TEN
+Dialogue: 0,0:00:01.68,0:00:03.40,Cap,,0,0,0,,DOLLARS TO MAKE THIS
+Dialogue: 0,0:00:03.40,0:00:05.00,Cap,,0,0,0,,PORCH LOOK SPOOKY.
+Dialogue: 0,0:00:05.00,0:00:06.53,Cap,,0,0,0,,LET'S SEE HOW BAD
+Dialogue: 0,0:00:06.53,0:00:07.59,Cap,,0,0,0,,THIS GOES.
+Dialogue: 0,0:00:07.59,0:00:09.45,Cap,,0,0,0,,OKAY. THREE DOLLARS ON
+Dialogue: 0,0:00:09.45,0:00:11.91,Cap,,0,0,0,,CHEESECLOTH, THAT'S THE GHOSTS.
+Dialogue: 0,0:00:12.41,0:00:13.73,Cap,,0,0,0,,TWO ON ORANGE LIGHTS.
+Dialogue: 0,0:00:13.73,0:00:15.16,Cap,,0,0,0,,THE PUMPKINS WERE FREE,
+Dialogue: 0,0:00:15.16,0:00:16.48,Cap,,0,0,0,,MY NEIGHBOR GROWS WAY
+Dialogue: 0,0:00:16.48,0:00:17.22,Cap,,0,0,0,,TOO MANY,
+Dialogue: 0,0:00:17.22,0:00:19.13,Cap,,0,0,0,,SHE'S PRACTICALLY BEGGING PEOPLE.
+Dialogue: 0,0:00:19.13,0:00:20.16,Cap,,0,0,0,,SO THAT'S FIVE.
+Dialogue: 0,0:00:20.66,0:00:21.91,Cap,,0,0,0,,AND THE LAST FIVE
+Dialogue: 0,0:00:21.91,0:00:22.78,Cap,,0,0,0,,WENT ON...
+Dialogue: 0,0:00:22.78,0:00:23.59,Cap,,0,0,0,,WAIT, NO,
+Dialogue: 0,0:00:23.59,0:00:24.52,Cap,,0,0,0,,FOUR FIFTY,
+Dialogue: 0,0:00:24.52,0:00:25.55,Cap,,0,0,0,,I GOT CHANGE,
+Dialogue: 0,0:00:25.55,0:00:26.68,Cap,,0,0,0,,ON BLACK PAINT.
+Dialogue: 0,0:00:26.68,0:00:27.77,Cap,,0,0,0,,IS IT PERFECT?
+Dialogue: 0,0:00:27.77,0:00:29.12,Cap,,0,0,0,,NO. ONE GHOST LOOKS
+Dialogue: 0,0:00:29.12,0:00:30.43,Cap,,0,0,0,,LIKE A SAD NAPKIN.
+Dialogue: 0,0:00:30.93,0:00:32.67,Cap,,0,0,0,,BUT THE NEIGHBOR KIDS
+Dialogue: 0,0:00:32.67,0:00:34.61,Cap,,0,0,0,,SCREAMED, SO I'M CALLING
+Dialogue: 0,0:00:34.61,0:00:35.59,Cap,,0,0,0,,IT A WIN.
+Dialogue: 0,0:00:35.59,0:00:37.14,Cap,,0,0,0,,IT DOESN'T HAVE TO
+Dialogue: 0,0:00:37.14,0:00:38.24,Cap,,0,0,0,,BE PERFECT,
+Dialogue: 0,0:00:38.24,0:00:39.40,Cap,,0,0,0,,IT HAS TO BE
+Dialogue: 0,0:00:39.40,0:00:41.15,Cap,,0,0,0,,OURS. FOLLOW FOR NEXT
+Dialogue: 0,0:00:41.15,0:00:42.77,Cap,,0,0,0,,WEEK, I'M DOING THE
+Dialogue: 0,0:00:42.77,0:00:43.61,Cap,,0,0,0,,MANTEL.
