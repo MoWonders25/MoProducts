@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Holly Bramble · Holidays at Home</title>
+<meta name="description" content="Grandma-level holidays on a dollar-store budget. Guides and free printables from Holly Bramble.">
+<meta property="og:title" content="Holly Bramble · Holidays at Home">
+<meta property="og:description" content="Grandma-level holidays on a dollar-store budget.">
+<meta property="og:image" content="holly.jpg">
+<style>
+  /* ========= EDIT THESE TWO LINKS ========= */
+  /* Set in the <script> at the bottom: GUIDE_CHECKOUT_URL and EMAIL_FORM_ACTION */
+  :root{--orange:#d9631e;--orange-d:#b84f12;--ink:#2b2420;--cream:#fbf5ea;--card:#fff;--muted:#7a6e64;--line:#eadfce}
+  @media (prefers-color-scheme:dark){:root{--ink:#f3ebe0;--cream:#1d1814;--card:#28211c;--muted:#b4a796;--line:#3a3029}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--cream);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.5}
+  .wrap{max-width:480px;margin:0 auto;padding:32px 16px 48px}
+  header{text-align:center}
+  .avatar{width:112px;height:112px;border-radius:50%;object-fit:cover;border:4px solid var(--orange)}
+  h1{font-family:'Helvetica Neue',Arial,sans-serif;font-size:26px;margin:12px 0 2px}
+  .handle{color:var(--muted);font-family:Arial,sans-serif;font-size:14px;text-decoration:none}
+  .tag{margin:10px 0 0;font-size:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:20px;box-shadow:0 2px 10px rgba(0,0,0,.04)}
+  .badge{display:inline-block;font-family:Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:3px 9px;border-radius:999px;background:var(--orange);color:#fff}
+  .badge.free{background:#6f7f5c}
+  h2{font-family:'Helvetica Neue',Arial,sans-serif;font-size:21px;margin:10px 0 6px}
+  ul{padding-left:20px;margin:8px 0 14px}li{margin:3px 0}
+  .price{font-family:Arial,sans-serif;font-size:24px;font-weight:700}
+  .price s{color:var(--muted);font-size:16px;font-weight:400;margin-left:6px}
+  .btn{display:block;width:100%;text-align:center;font-family:Arial,sans-serif;font-weight:700;font-size:17px;padding:14px;border-radius:12px;border:0;background:var(--orange);color:#fff;text-decoration:none;cursor:pointer;margin-top:10px}
+  .btn:hover{background:var(--orange-d)}
+  .btn.ghost{background:transparent;color:var(--orange);border:2px solid var(--orange)}
+  input[type=email]{width:100%;padding:13px;font-size:16px;border-radius:10px;border:1px solid var(--line);background:var(--cream);color:var(--ink);margin-top:6px}
+  .ok{display:none;font-family:Arial,sans-serif;color:#6f7f5c;font-weight:700;margin-top:10px}
+  .quote{text-align:center;font-style:italic;color:var(--muted);margin-top:28px}
+  footer{text-align:center;font-family:Arial,sans-serif;font-size:12px;color:var(--muted);margin-top:24px}
+  footer a{color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img class="avatar" src="holly.jpg" alt="Holly Bramble">
+    <h1>Holly Bramble</h1>
+    <a class="handle" href="https://instagram.com/hollybrambledaysathome" target="_blank" rel="noopener">@hollybrambledaysathome</a>
+    <p class="tag">🎃 Grandma-level holidays on a dollar-store budget</p>
+  </header>
+
+  <!-- PAID PRODUCT -->
+  <section class="card">
+    <span class="badge">Bestseller · Halloween</span>
+    <h2>Halloween on $50</h2>
+    <p>The exact plan I use to pull off a porch, a mantel, costumes and a party for fifty bucks total.</p>
+    <ul>
+      <li>The $50 budget split, bucket by bucket</li>
+      <li>Step-by-step DIYs: ghosts, luminaries, bats, black pumpkins</li>
+      <li>5 costumes for $0–3 each</li>
+      <li>4-week timeline + printable shopping list</li>
+      <li>7-page PDF · instant download</li>
+    </ul>
+    <div class="price">$12</div>
+    <a class="btn" id="buyGuide" href="#" target="_blank" rel="noopener">Get the guide →</a>
+  </section>
+
+  <!-- FREE LEAD MAGNET -->
+  <section class="card">
+    <span class="badge free">Free</span>
+    <h2>The No-Stress Halloween Checklist</h2>
+    <p>A one-page, fridge-ready checklist from 4 weeks out to November 1st.</p>
+    <form id="leadForm" method="POST" target="_blank">
+      <input type="email" name="email" required placeholder="Your email">
+      <button class="btn" type="submit">Send me the checklist</button>
+    </form>
+    <div class="ok" id="ok">🧡 Thanks! Your checklist is downloading.</div>
+  </section>
+
+  <!-- COMING SOON -->
+  <section class="card">
+    <span class="badge" style="background:#8a5a2b">Coming soon</span>
+    <h2>Stress-Free Thanksgiving Planner</h2>
+    <p>3-week countdown, shopping list, make-ahead plan and seating cards.</p>
+    <a class="btn ghost" href="https://instagram.com/hollybrambledaysathome" target="_blank" rel="noopener">Follow for the launch</a>
+  </section>
+
+  <p class="quote">"It doesn't have to be perfect. It has to be ours."</p>
+  <footer>
+    © Holly Bramble · Holly is an AI-generated character.<br>
+    Digital products are for personal use. Questions? DM me on <a href="https://instagram.com/hollybrambledaysathome">Instagram</a>.
+  </footer>
+</div>
+
+<script>
+  // ========= EDIT THESE =========
+  // 1) Payment link for the $12 guide (Stripe Payment Link, Gumroad, Lemon Squeezy, etc.)
+  const GUIDE_CHECKOUT_URL = "";
+  // 2) Email signup form endpoint (ConvertKit, Mailchimp, Beehiiv, Formspree...). Leave blank to skip email capture.
+  const EMAIL_FORM_ACTION = "";
+  // ==============================
+
+  const buy = document.getElementById('buyGuide');
+  if (GUIDE_CHECKOUT_URL) buy.href = GUIDE_CHECKOUT_URL;
+  else buy.addEventListener('click', e => { e.preventDefault(); alert('Checkout link not set up yet: add GUIDE_CHECKOUT_URL in index.html.'); });
+
+  const form = document.getElementById('leadForm');
+  if (EMAIL_FORM_ACTION) form.action = EMAIL_FORM_ACTION;
+  form.addEventListener('submit', e => {
+    if (!EMAIL_FORM_ACTION) e.preventDefault();
+    const a = document.createElement('a');
+    a.href = 'free_halloween_checklist.pdf'; a.download = 'Holly-Halloween-Checklist.pdf';
+    document.body.appendChild(a); a.click(); a.remove();
+    document.getElementById('ok').style.display = 'block';
+  });
+</script>
+</body>
+</html>
