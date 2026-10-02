@@ -1,7 +1,7 @@
 # Holly Bramble — Instagram Setup Kit
 
 ## 1. Account
-- **Handle:** @hollydaysathome (backups: @hollybramble.home, @hollydays.athome)
+- **Handle:** @hollybrambledaysathome
 - **Name field:** Holly | Budget Holiday Hosting  (the name field is searchable — keep the keyword)
 - **Account type:** Creator → category "Blogger" or "Home & Garden"
 - **Profile picture:** `holly_profile_picture.jpg`
