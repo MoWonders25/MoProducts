@@ -50,7 +50,7 @@ These need new Reels, all **free** (no Higgsfield credits). Two formats:
 | 27 | Oct 30 | Repost | Reel 05 (grandma rule #1) | Homemade costume? Even if it's terrible | Same clip | Show me your terrible costumes 😂 | #homemadecostume #halloweentraditions #diycostume |
 | 28 | Oct 31 | Still Reel | Porch photo | Happy Halloween from my porch 🎃 | "It doesn't have to be perfect. It has to be ours." | Happy Halloween! Leave the light on 🧡 | #happyhalloween #halloween2026 #porchdecor |
 | 29 | Nov 1 | Product Reel | Christmas Budget & Gift Planner pages | 54 days to Christmas. Start your list today | Budget page → gift list → deadlines page | The planner is in my shop. Link in bio 🎄 | #christmasplanner #giftlist #christmas2026 |
-| 30 | Nov 2 | Still Reel | Holly portrait | The 75/25 Christmas budget rule | 75% gifts · 25% sneaky extras: wrapping, shipping, stockings, swaps | Comment GIFT for my free gift list 🎁 | #christmasbudget #holidaybudget #savemoney |
+| 30 | Nov 2 | Still Reel | Christmas Holly (`holly_christmas/holly_images/holly_christmas_planner.png`) | The 75/25 Christmas budget rule | 75% gifts · 25% sneaky extras: wrapping, shipping, stockings, swaps | Comment GIFT for my free gift list 🎁 | #christmasbudget #holidaybudget #savemoney |
 
 **On Nov 1:** take down the Halloween Etsy listings, change the bio CTA to "Comment GIFT," and point the link to the Christmas planner/bundle.
 
