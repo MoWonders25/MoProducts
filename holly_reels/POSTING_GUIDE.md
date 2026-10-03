@@ -25,7 +25,36 @@
 | Oct 15 | `holly_reel_04_was_it_worth_it.mp4` | Was my $10 porch worth it? The neighbor kids decided 👻 | #halloweenporch #dollarstorediy #porchdecor |
 | Oct 16 | `holly_reel_10_keep_it_small.mp4` | Permission to keep Halloween small. Save this 🧡 | #parenting #halloween #mentalload |
 
-After Oct 16: repost the 3 best performers with a new hook, then switch to Thanksgiving/Christmas content.
+## Days 14–30 (Oct 17 – Nov 2)
+
+These need new Reels, all **free** (no Higgsfield credits). Two formats:
+- **Repost** = an existing Reel with a new hook text (I can re-render it with the new hook).
+- **Still Reel** = a Holly photo or product page with zoom + text slides, like Reels 11–13 (add trending audio in the app).
+- **Product Reel** = scroll/zoom through real pages of a Holly product with text slides.
+
+| Day | Date | Format | Asset | Hook on screen | Slides / notes | Caption | Hashtags |
+|---|---|---|---|---|---|---|---|
+| 14 | Oct 17 | Repost | Your best of Reels 01–10 by views | New hook, e.g. "Still not decorated? Watch this" | Same clip | Two weeks left. Comment PUMPKIN for the checklist 🎃 | #halloweendecor #lastminutehalloween #dollarstorediy |
+| 15 | Oct 18 | Still Reel | Porch photo (`src/…32e066be.png`) | 2 weeks to Halloween. Do these 4 things | 1. Buy candy last · 2. Hang lights first · 3. Make ghosts tonight · 4. Plan 1 costume | Save this for this weekend 👻 | #halloweenchecklist #halloween2026 #momhacks |
+| 16 | Oct 19 | Product Reel | Halloween on $50 guide pages | My entire Halloween plan, $50 total | Budget page → porch DIYs → costumes → shopping list | The whole plan is in my shop. Link in bio 🧡 | #halloweenonabudget #printableplanner #budgetmom |
+| 17 | Oct 20 | Still Reel | Carving photo (`src/…6c6a99dc.png`) | Costumes for $0–3 each | Black cat · $2 · Scarecrow · $3 · Ghost · $0 · Witch · $3 · Skeleton · $3 | Which one are you making? 👇 | #diycostume #halloweencostume #easycostume |
+| 18 | Oct 21 | Repost | Reel 06 (porch light rule) | Grandma's rule that still makes me cry | Same clip | Leave the light on this year 🕯️ | #halloweentraditions #kindness #grandma |
+| 19 | Oct 22 | Still Reel | Holly portrait (`src/…5aa827e3.png`) | 3 Halloween mistakes that cost you money | Buying decor in October · Candy too early · No list at the store | Don't do #2 😅 | #savemoney #halloweentips #frugalliving |
+| 20 | Oct 23 | Repost | Reel 08 ($1 skeletons) | Write this date down: Nov 1 | Same clip | Set a reminder for Nov 1 💀 | #clearancefinds #halloweensale #frugaltips |
+| 21 | Oct 24 | Still Reel | Craft-table photo (`src/…05f232c3.png`) | Weekend craft: $1 paper bats | Trace a bat · Cut 20 from black paper · Fold wings · Tape up the wall | Tag me if you make them 🦇 | #halloweencrafts #kidscrafts #diydecor |
+| 22 | Oct 25 | Repost | Reel 09 (tired parents) | One week left, tired parents | Same clip | You've got this 🧡 | #momlife #halloweenwithkids #simpleliving |
+| 23 | Oct 26 | Still Reel | Porch photo | Halloween night timeline | 3pm cider on · Dusk test lights · 6pm porch light on · Save good candy for last | Save for Halloween night 🎃 | #halloweennight #trickortreat #hostingtips |
+| 24 | Oct 27 | Product Reel | Free Halloween checklist page | The free checklist everyone's asking for | Show the page · "Comment PUMPKIN" | Comment PUMPKIN and I'll send it 🎃 | #halloweenchecklist #freeprintable #halloween2026 |
+| 25 | Oct 28 | Repost | Reel 03 (sad napkin ghost) | Still my favorite ghost | Same clip | He's not perfect, he's ours 👻 | #diyghost #dollartreediy #halloweenporch |
+| 26 | Oct 29 | Still Reel | Holly portrait | Cocoa bar for $5 | Cocoa mix · Mini marshmallows · Candy cane crumbs · Whipped cream | Halloween-night treat ☕ | #hotcocoabar #halloweentreats #cheapeats |
+| 27 | Oct 30 | Repost | Reel 05 (grandma rule #1) | Homemade costume? Even if it's terrible | Same clip | Show me your terrible costumes 😂 | #homemadecostume #halloweentraditions #diycostume |
+| 28 | Oct 31 | Still Reel | Porch photo | Happy Halloween from my porch 🎃 | "It doesn't have to be perfect. It has to be ours." | Happy Halloween! Leave the light on 🧡 | #happyhalloween #halloween2026 #porchdecor |
+| 29 | Nov 1 | Product Reel | Christmas Budget & Gift Planner pages | 54 days to Christmas. Start your list today | Budget page → gift list → deadlines page | The planner is in my shop. Link in bio 🎄 | #christmasplanner #giftlist #christmas2026 |
+| 30 | Nov 2 | Still Reel | Holly portrait | The 75/25 Christmas budget rule | 75% gifts · 25% sneaky extras: wrapping, shipping, stockings, swaps | Comment GIFT for my free gift list 🎁 | #christmasbudget #holidaybudget #savemoney |
+
+**On Nov 1:** take down the Halloween Etsy listings, change the bio CTA to "Comment GIFT," and point the link to the Christmas planner/bundle.
+
+**After day 30:** keep 1 post a day through December using the same three formats — product Reels for the planner, tags and countdown, still Reels with tips, and reposts of whatever got the most saves.
 
 ## Daily 15-minute routine
 1. Post at 11am–1pm or 7–9pm (your audience's time).
